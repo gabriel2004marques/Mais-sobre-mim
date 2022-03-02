@@ -1,0 +1,305 @@
+<html>
+    <head>
+        <title>Mais-sobre-mim</title>
+        <link rel="stylesheet" href="css/estilos.css">
+    </head>
+
+ <body>
+
+    <figure>
+        <img src="goku.jpg" width="400">
+        <img src="sid.jpg" width="240">
+    </figure>
+
+    <figure>
+        <img src="luigi2.jpg" width="300">
+        <img src="Salsicha.jpg" width="200">
+    </figure>
+
+    <h1>Minhha vida aos 30 anos</h1>
+    <p>    </p>
+    <h2>Carta de um amigo</h2>
+    <p><strong>Caro amigo Gabriel Marques</strong></p>
+    <p>Quando te conheci quando tinhamos 30 anos , devo confessar que comecei a te admirar por conta de sua história de vida , mesmo passando tudo oque <br>você passou , você foi forte e manteve a cabeça erguida , continuou firme na sua jornada e persistiu nos seus sonhos até o fim. Se você aceitar um <br>conselho de um bom amigo , gostaria de dizer pra você continuar desse jeito que você é , uma pessoa alegre , sorridente e guerreiro , não deixe ninguém <br>te deixar pra baixo , e também , seja menos preguiçoso ,  seja mais ativo , mais dedicado . </br> </p>
+    <p><strong>Um abraço , fique com Deus</strong></p>
+
+    <p><h1>Minhas comidas favoritas</h1></p>
+
+    <h1>Lasanha</h1>
+    <figure>
+        <img src= "https://i.ytimg.com/vi/FrdumyhYaZY/maxresdefault.jpg" width= "340">
+     </figure>
+
+    <h2>Ingredientes</h2>
+    
+    <ul>
+        <li>Uma massa de lasanha (pronta)</li>
+        <li>500g de presunto</li>
+        <li>500g de queijo mussarela</li>
+        <li>500g de carne moida</li>
+        <li>Uma massa de tomate pronta</li>
+        <li>Sal a gosto</li>
+        <li>Pimenta-do-reino a gosto</li>
+        <li>Oregano a gosto</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ul>
+        <li>1 : Cozinhe a massa da lasanha em aproximadamente em 2 litros de água por 5 minutos.</li>
+        <li>2 : Em uma panela cozinhe a carne moída, depois de cozida coloque molho de tomate, o sal e temperos a gosto.</li>
+        <li>3 : Comece montando com uma camada de molho, a massa da lasanha, o presunto e o queijo</li>
+        <li>4 : Faça esse processo até tudo terminar.</li>
+        <li>5 : Aqueça o forno a 180º C durante 5 minutos.</li>
+        <li>6 : Coloque a lasanha no forno de 20 a 30 minutos.</li>
+        <li>7 : Ponha em um prato e aproveite</li>
+    </ul>
+
+    <h1>Strogonoff de frango</h1>
+    <figure>
+        <img src= "https://4.bp.blogspot.com/-9gFQoJ4IlAE/WyLSu9fqNhI/AAAAAAAAND0/3Ab_DDh-CO0e7D3VWiND0MrkFLGt5nT-ACLcBGAs/s1600/strogonoff-de-frango.jpg" width= "340">
+    </figure>
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>3 peitos de frango cortados em cubos</li>
+        <li>1 dente de alho picado</li>
+        <li>sal e pimenta a gosto</li>
+        <li>1 cebola picada</li>
+        <li>2 colheres (sopa) de maionese</li>
+        <li>1 colher de manteiga</li>
+        <li>1/2 copo de ketchup</li>
+        <li>1/3 copo de mostarda</li>
+        <li>1 copo de cogumelos</li>
+        <li>1 copo de creme de leite</li>
+        <li>batata palha a gosto</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ul>
+        <li>1 : Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.</li>
+        <li>2 : Em uma frigideira grande, derreta a manteiga e doure a cebola.</li>
+        <li>3 : Junte o frango temperado até que esteja dourado.</li>
+        <li>4 : Adicione os cogumelos, o ketchup e a mostarda.</li>
+        <li>5 : Incorpore o creme de leite e retire do fogo antes de ferver.</li>
+        <li>6 : Sirva com arroz branco e batata palha.</li>
+    </ul>
+
+    <h1>Pudim</h1>
+
+    <figure>
+        <img src= "https://s2.glbimg.com/0IW9eAlr8zqyY3WD1CIh5trjuSg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/t/2/dpV1FkS4WByGHfml8S1w/pudim.jpg" width= "340">
+    </figure>
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>Pudim:</li>
+        </ul>
+
+    <ul>
+        <li>1 lata de leite condensado</il>
+        <li>1 lata de leite (medida da lata de leite condensado)</il>
+        <li>3 ovos inteiros</li>
+    </ul>
+        <p>     </p>
+    
+    <ul>
+        <li>Calda:</li>
+    </ul>
+    
+    <p>    </p>
+
+    <ul>
+        <li>1 xícara (chá) de açúcar</li>
+        <li>1/2 xícara de água</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ul>
+        <li>Pudim:</li>
+        <li>1 : Primeiro, bata bem os ovos no liquidificador.</li>
+        <li>2 : Acrescente o leite condensado e o leite, e bata novamente.</li>
+    </ul>
+
+        <p>     </p>
+    
+    <ul>
+        <li>Calda:</li>
+        <li>1 : Derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar.</li>
+        <li>2 : Coloque em uma forma redonda e despeje a massa do pudim por cima.</li>
+        <li>3 : Asse em forno médio por 45 minutos, com a assadeira redonda dentro de uma maior com água.</li>
+        <li>4 : Espete um garfo para ver se está bem assado.</li>
+        <li>5 : Deixe esfriar e desenforme.</li>
+    </ul>
+
+    <p>Comidas que nunca provei mas gostaria de provar</p>
+
+    <h1>Sushi</h1>
+
+    <figure>
+        <img src= "https://media.istockphoto.com/photos/all-you-can-eat-sushi-picture-id1053854126?k=20&m=1053854126&s=612x612&w=0&h=haaqa5FkUXZjz1xvVFvvodNvV8vITqeenXsXOeuYdTU=" width= "340">
+    </figure>
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>1 xícara (chá) de arroz para sushi</il>
+        <li>1 colher cheia (sopa) de açúcar</li>
+        <li>1 colher (chá) de sal</li>
+        <li>3 colheres (sopa) de vinagre de arroz</li>
+        <li>1 xícara e 1/2 (chá) de água fria</li>
+        <li>Kani Kama</li>
+        <li>Folhas de alga</li>
+        <li>Molho shoyu a gosto</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ul>
+        <li>1 : Lave o arroz e deixe escorrer por 20 minutos.</li>
+        <li>2 : Ferva o arroz com sal e tampe a panela, abaixe o fogo assim que levantar fervura e cozinhe por 20 minutos, desligue o fogo.</li>
+        <li>3 : Em outra panela adicione o vinagre e o açúcar em fogo baixo até que o açúcar dissolva, em seguida regue o vinagre com açúcar na panela de arroz, misture e espere esfriar.</li>
+        <li>4 : Coloque a alga sobre uma esteira com as mãos molhadas para não grudar espalhe o arroz sobre a alga deixando um pequeno espaço aproximadamente 1 cm, coloque o kani kama em tiras e enrole.</li>
+        <li>5 : Com um faca sem serra e molhada, corte em pedaços pequenos e sirva com molho shoyu.</li>
+    </ul>
+
+    <h1>Torta de cookie recheado com Nutella</h1>
+
+    <figure>
+        <img src= "https://3.bp.blogspot.com/-BUynh95mU0I/WyAqCZkMB3I/AAAAAAAANDU/2hJ8ipslCZI30a0QPT2meteAvWIw5Am7ACLcBGAs/s1600/Cookie-gigante-torta-7.JPG" width= "340">
+    </figure>
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>100g de manteiga sem sal OU margarina gelada (aprx. 5 colheres de sopa cheias)</li>
+        <li>50g de açúcar mascavo (aprox. 5 colheres de sopa)</li>
+        <li>50g de açúcar cristal (aprox. 5 colheres de sopa)</li>
+        <li>1 ovo</li>
+        <li>200g de farinha de trigo (aprox. 1 xícara e 3/4)</li>
+        <li>1 colher rasa (de chá) de bicarbonato de sódio</li>
+        <li>1/2 colher (de chá) de sal</li>
+        <li>1 colher (de chá) de essência de baunilha</li>
+        <li>100g de chocolate picado OU gotas de chocolate</li>
+        <li>300g de Nutella (pode substituir por chocolate derretido)</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ul>
+        <li>1 : Bata a manteiga gelada e os açúcares na batedeira por 5 minutos</li>
+        <li>2 : Adicione o ovo, a essência de baunilha e o sal, bata por 2 minutos</li>
+        <li>3 : Adicione a farinha de trigo e o bicarbonato, bata até misturar</li>
+        <li>4 : Adicione o chocolate e misture usando uma espátula </li>
+        <li>5 : Deixe a massa na geladeira 10 minutos antes de montar na forma</li>
+        <li>6 : Numa forma de 16cm de diâmetro, de fundo removível, coloque a massa e vá espalhando no fundo e nas laterais da forma. Deixe massa para a tampa do cookie.</li>
+        <li>7 : Coloque a nutella no meio e espalhe</li>
+        <li>8 : Cubra a nutella com pedacinhos de massa.</li>
+        <li>9 : Não encha completamente a forma pois ele cresce um pouco</li>
+        <li>10 : Asse à 180°C por 40 minutos, ou até dourar levemente</li>
+        <li>11 : Deixe esfriar um pouco, desinforme e pode servir! </li>
+    </ul>
+
+    <h1>Torta de manteiga escocesa</h1>
+
+    <figure>
+        <img src= "https://amp.bonde.com.br/mrf4u/statics/i/ps/s3.amazonaws.com/producao.spayce.com.br/1634313086379_torta_doce.jpg?width=1200&enable=upscale" width= "340">
+    </figure>
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>Massa:</li>
+        <p>    </p>
+        <li>1/2 xícara de açúcar mascavo</li>
+        <li>1 pitada de sal</li>
+        <li>200 gramas de manteiga</li>
+        <li>1 e 3/4 xícara de farinha de trigo</li>
+        <li>2 ovos</li>
+        <li>50 gramas de amêndoas picadas</li>
+        <p>    </p>
+        <li>Caramelo:</li>
+        <p>    </p>
+        <li>1/2 xícara de açúcar</li>
+        <li>70 gramas de manteiga</li>
+        <li>2 caixinhas de creme de leite</li>
+        <li>2 colheres de sopa de glucose de milho</li>
+        <li>1 colher de sopa de essência de baunilha</li>
+        <li>1 colher de sobremesa de sal</li>
+        <li>1 lata de leite condensado</li>
+        <p>    </p>
+        <li>Cobertura:</li>
+        <p>    </p>
+        <li>200 gramas de chocolate meio amargo derretido</li>
+        <li>100 gramas de chocolate meio amargo picado</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ul>
+        <li>Massa:</li>
+        <p>    </p>
+        <li>1 : Coloque o açúcar, o sal e a manteiga em temperatura ambiente em uma tigela e misture bem.</li>
+        <li>2 : Adicione a farinha de trigo e abra um buraco no meio para colocar os ovos. Misture até obter uma massa homogênea.</li>
+        <li>3 : Adicione as amêndoas e mexa para incorporar.</li>
+        <li>4 : Forre uma forma com papel manteiga e distribua uma camada uniforme da massa.</li>
+        <li>5 : Leve ao forno pré-aquecido a 180 graus por aproximadamente 30 a 40 minutos.</li>
+        <p>    </p>
+        <li>Caramelo:</li>
+        <p>    </p>
+        <li>1 : Em uma panela, coloque o açúcar e espere derreter até o ponto de calda.</li>
+        <li>2 : Acrescente a manteiga, o creme de leite, a glucose, a essência de baunilha, o sal e o leite condensado.</li>
+        <li>3 : Cozinhe sempre mexendo até desgrudar do fundo da panela.</li>
+        <li>4 : Faça uma camada uniforme por cima da massa já assada e leve à geladeira por aproximadamente 40 minutos.</li>
+        <p>    </p>
+        <li>Cobertura:</li>
+        <p>    </p>
+        <li>1 : Derreta o chocolate, acrescente os pedaços de chocolate, misture bem e coloque por cima da camada de caramelo.</li>
+        <li>2 : Espalhe para fazer uma camada uniforme.</li>
+        <li>3 : Leve à geladeira por mais 2 horas.</li>
+        <li>4 : Corte com uma faca quente para não quebrar o chocolate.</li>
+        <li>5 : Está pronto para servir.</li>
+    </ul>
+
+    <p><h1>Minha melhor lembrança</h1></p>
+    <p>Se eu fosse ter que escolher a minha melhor lembrança , eu diria que foi o dia em que eu peguei meu sobrimho no colo pela primeira vez . Dois dias após <br>meu sobrinho nascer , eu fui velo pessoalmente pela primeira vez , nesse mesmo dia eu o peguei no colo e neste exato momento , ele abriu os olhos <br>e ficou olhando para mim , eu senti meu coração aquecer , e prometi que iria sempre tentar faze-lo feliz.</br> </p>
+
+    <p><h1>Momentos da minha vida</h1></p>
+
+    <figure>
+        <img src="tom.jpg" width="500">
+        <img src="veia.jpg" width="220">
+    </figure>
+
+    <figure>
+        <img src="omori.jpg" width="350">
+        <img src="yoshi.jpg" width="600">
+    </figure>
+
+    <figure>
+        <img src="monika.jpg" width="400">
+        <img src="naruto.jpg" width="350">
+    </figure>
+
+    <h1>Minhas emoções</h1>
+
+    <figure>
+        <img src="tom2.jpg" width="400">
+        <img src="gatomeme.jpg" width="400">
+    </figure>
+
+    <figure>
+        <img src="lisa.jpg" width="400">
+        <img src="raiva.jpg" width="600">
+    </figure>
+
+    <figure>
+        <img src="trollface.jpg" width="400">
+        <img src="tranquilo.png" width="250">
+    </figure>
+
+</body>
